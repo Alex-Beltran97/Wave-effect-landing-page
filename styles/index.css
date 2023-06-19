@@ -22,6 +22,7 @@ body {
   background-size: cover;  
   padding: .1px;
   position: relative;
+  background-attachment: fixed;
 }
 
 .hero__container{
